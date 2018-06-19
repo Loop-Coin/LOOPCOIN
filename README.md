@@ -1,7 +1,7 @@
 LOOP integration/staging tree
 ================================
 
-http://www.loop.org
+https://loopcoin.trade
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 LOOP Developers
@@ -18,7 +18,7 @@ LOOP is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 100 coins per block
 
 For more information, as well as an immediately useable, binary version of
-the LOOP client sofware, see http://www.loop.org.
+the LOOP client sofware, see https://loopcoin.trade.
 
 License
 -------
@@ -44,8 +44,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/loop-project/loop/tags) are created
-regularly to indicate new official, stable release versions of LOOP.
+completely stable. 
 
 Testing
 -------
